@@ -1,0 +1,6 @@
+D:\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+D:\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
